@@ -1,5 +1,3 @@
-
-let opcion2;
 let n;
 let valortotal1 = 0;
 let valortotal2 = 0;
